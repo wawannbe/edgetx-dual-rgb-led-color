@@ -1,5 +1,5 @@
 # About the scripts
-*These scripts provide dual colors for RGB rings around some radios like the Radiomaster TX15*
+*These scripts provide dual colors for RGB rings around the gimbals on some radios like the Radiomaster TX15*
 
 **Scripts**
 
