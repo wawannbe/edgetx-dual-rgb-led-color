@@ -3,7 +3,7 @@
 
 **Scripts**
 
-*There are 7 pre made scripts named the following way: leftColorRightColor.lua, but each color was shorten due to file name size restriction*
+*There are 7 pre made scripts named the following way: LeftColorRightColor.lua, but each color was shorten due to file name size restriction*
 - GrnPk.lua     (Green Pink)
 - GrnWte.lua    (Green White)
 - LimMag.lua    (Lime Magenta)
