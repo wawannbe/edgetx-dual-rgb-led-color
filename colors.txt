@@ -1,0 +1,12 @@
+255, 0, 0     Red
+255, 165, 0   Orange
+255, 255, 0   Yellow
+191, 255, 0   Lime
+0, 255, 0     Green
+64, 224, 208  Turquoise
+0, 255, 255   Cyan
+0, 0, 255     Blue
+128, 0, 128   Purple
+255, 0, 255   Magenta
+255, 20, 147  Deep Pink
+255, 255, 255 White
