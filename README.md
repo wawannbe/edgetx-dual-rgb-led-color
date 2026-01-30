@@ -24,7 +24,9 @@ Scripts
 │  ├─ PrplWte
 │  ├─ RedCy.lua
 │  └─ RedWte.lua
-└─ colors.txt
+├─ LICENSE
+├─ colors.txt
+└─ README.md
 ```
 
 # Versions
