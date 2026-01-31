@@ -75,24 +75,7 @@ Thanks to KStacy who tested the scripts on his TX16S MK3 !
 
 # Project structure
 ```
-Project
-├─ img
-│  ├─ GrnPk.jpg
-│  ├─ GrnWte.jpg
-│  ├─ LimMag.jpg
-│  ├─ OrngBlu.jpg
-│  ├─ PrplWte.jpg
-│  ├─ RedCy.jpg
-│  ├─ RedWte.jpg
-│  ├─ step1.bmp
-│  ├─ step2.bmp
-│  ├─ step3.bmp
-│  ├─ step4.bmp
-│  ├─ step5.bmp
-│  ├─ step6.bmp
-│  ├─ step7.bmp
-│  ├─ step8.bmp
-│  └─ step9.bmp
+Package
 ├─ scripts
 │  ├─ GrnPk.lua
 │  ├─ GrnWte.lua
