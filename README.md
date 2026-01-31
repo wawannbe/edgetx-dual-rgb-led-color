@@ -37,6 +37,7 @@ The file colors.txt contain the list of the base colors that can be set to the R
 - Radiomaster TX16S MK3
 
 *These scripts have been tested with EdgeTX 2.12.0-RC1 on the Radiomaster TX15 Max.*
+
 *They have also been tested on the 3.0.0 version (stock firmware for TX15/TX16S MK3) on both radios.*
 
 Thanks to KStacy who tested the scripts on his TX16S MK3 !
