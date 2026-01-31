@@ -5,7 +5,7 @@
 
 *There are 7 pre made scripts named the following way: LeftColorRightColor.lua, but each color was shorten due to file name size restriction*
 - GrnPk.lua     (Green Pink)
-![Green Pink](img/GrnPk.jpg "Green Pink")
+<img src="img/GrnPk.jpg" alt="Green Pink" width="200"/>
 
 - GrnWte.lua    (Green White)
 ![Green White](img/GrnWte.jpg "Green White")
