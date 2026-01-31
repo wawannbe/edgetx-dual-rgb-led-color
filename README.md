@@ -5,25 +5,25 @@
 
 *There are 7 pre made scripts named the following way: LeftColorRightColor.lua, but each color was shorten due to file name size restriction*
 - GrnPk.lua     (Green Pink)
-<img src="img/GrnPk.jpg" alt="Green Pink" width="200"/>
+<img src="img/GrnPk.jpg" alt="Green Pink" width="300"/>
 
 - GrnWte.lua    (Green White)
-![Green White](img/GrnWte.jpg "Green White")
+<img src="img/GrnWte.jpg" alt="Green White" width="300"/>
 
 - LimMag.lua    (Lime Magenta)
-![Lime Magenta](img/LimMag.jpg "Lime Magenta")
+<img src="img/LimMag.jpg" alt="Lime Magenta" width="300"/>
 
 - OrngBlu.lua   (Orange Blue)
-![Orange Blue](img/OrngBlu.jpg "Orange Blue")
+<img src="img/OrngBlu.jpg" alt="Orange Blue" width="300"/>
 
 - PrplWte.lua   (Purple White)
-![Pruple White](img/PrplWte.jpg "Pruple White")
+<img src="img/PrplWte.jpg" alt="Purple White" width="300"/>
 
 - RedCy.lua     (Red Cyan)
-![Red Cyan](img/RedCy.jpg "Red Cyan")
+<img src="img/RedCy.jpg" alt="Red Cyan" width="300"/>
 
 - RedWte.lua    (Red White)
-![Red White](img/RedWte.jpg "Red White")
+<img src="img/RedWte.jpg" alt="Red White" width="300"/>
 
 
 **Colors**
