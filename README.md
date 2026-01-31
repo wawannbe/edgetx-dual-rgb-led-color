@@ -31,7 +31,7 @@
 The file colors.txt contain the list of the base colors that can be set to the RGB rings/RGB switches if you want to make your own color combinations.
 
 
-**Compatibility**
+# Compatibility
 
 - Radiomaster TX15 Max
 - Radiomaster TX16S MK3
