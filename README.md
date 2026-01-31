@@ -73,7 +73,9 @@ Thanks to KStacy who tested the scripts on his TX16S MK3 !
 - Check the Enable toggle
 <img src="img/step9.bmp" alt="Step 9" width="300"/>
 
-# Project structure
+# Package
+*These are the files contained in the release*
+
 ```
 Package
 ├─ scripts
