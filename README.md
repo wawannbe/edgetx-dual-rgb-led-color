@@ -47,31 +47,31 @@ Thanks to KStacy who tested the scripts on his TX16S MK3 !
 - Copy the content of the ```scripts``` folder into the ```/SCRIPTS/RGBLED/``` folder on your SD card.
 
 - Go in the *Model Settings tab*
-<img src="img/step1.bmp" alt="Step 1" width="200"/>
+<img src="img/step1.bmp" alt="Step 1" width="300"/>
 
 - In the *Customizable Switches* set the names/types/groups as you want and check the *Allow Lua override* on OFF and set the ON color to whatever you like.
-<img src="img/step2.bmp" alt="Step 2" width="200"/>
+<img src="img/step2.bmp" alt="Step 2" width="300"/>
 
 - Then go in the *Special Functions* tab
-<img src="img/step3.bmp" alt="Step 3" width="200"/>
+<img src="img/step3.bmp" alt="Step 3" width="300"/>
 
 - Create a new special function
-<img src="img/step4.bmp" alt="Step 4" width="200"/>
+<img src="img/step4.bmp" alt="Step 4" width="300"/>
 
 - Set the trigger to the switch you want (I use the RGB switches SF1 ~ SF6)
-<img src="img/step5.bmp" alt="Step 5" width="200"/>
+<img src="img/step5.bmp" alt="Step 5" width="300"/>
 
 - Set the function to *RGB leds*
-<img src="img/step6.bmp" alt="Step 6" width="200"/>
+<img src="img/step6.bmp" alt="Step 6" width="300"/>
 
 - Set the value to the colors that you want
-<img src="img/step7.bmp" alt="Step 7" width="200"/>
+<img src="img/step7.bmp" alt="Step 7" width="300"/>
 
 - Set the repeat to 1x
-<img src="img/step8.bmp" alt="Step 8" width="200"/>
+<img src="img/step8.bmp" alt="Step 8" width="300"/>
 
 - Check the Enable toggle
-<img src="img/step9.bmp" alt="Step 9" width="200"/>
+<img src="img/step9.bmp" alt="Step 9" width="300"/>
 
 # Project structure
 ```
