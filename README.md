@@ -4,6 +4,9 @@
 **Scripts**
 
 *There are 7 pre made scripts named the following way: LeftColorRightColor.lua, but each color was shorten due to file name size restriction*
+- CyPk.lua     (Cyan Pink)
+<img src="img/CyPk.jpg" alt="Cyan Pink" width="300"/>
+
 - GrnPk.lua     (Green Pink)
 <img src="img/GrnPk.jpg" alt="Green Pink" width="300"/>
 
@@ -79,6 +82,7 @@ Thanks to KStacy who tested the scripts on his TX16S MK3 !
 ```
 Package
 ├─ scripts
+│  ├─ CyPk.lua
 │  ├─ GrnPk.lua
 │  ├─ GrnWte.lua
 │  ├─ LimMag.lua
@@ -92,6 +96,11 @@ Package
 ```
 
 # Versions
+
+**v2.2.0**
+- Added a new color scheme (Cyan Pink)
+
+
 **v2.1.0**
 - Added a tutorial to set everything properly
 
