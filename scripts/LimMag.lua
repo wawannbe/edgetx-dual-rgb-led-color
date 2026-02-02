@@ -1,28 +1,31 @@
 local function init()
 end
 
+local leftR, leftG, leftB = 191, 255, 0 -- Lime
+local rigthR, rightG, rightB = 255, 0, 255 -- Magenta
+
 local function run()
     -- Right gimbal
     for i = 0, LED_STRIP_LENGTH /2, 1
     do
-        setRGBLedColor(i, 255, 0, 255) -- Magenta
+        setRGBLedColor(i, rigthR, rightG, rightB)
     end
 
     -- Right set of RGB switches
-    setCFSLedColor("SW4", 255, 0, 255)
-    setCFSLedColor("SW5", 255, 0, 255)
-    setCFSLedColor("SW6", 255, 0, 255)
+    setCFSLedColor("SW4", rigthR, rightG, rightB)
+    setCFSLedColor("SW5", rigthR, rightG, rightB)
+    setCFSLedColor("SW6", rigthR, rightG, rightB)
 
     -- Left gimbal
     for j = LED_STRIP_LENGTH /2  -3, LED_STRIP_LENGTH, 1
     do
-        setRGBLedColor(j, 191, 255, 0) -- Lime
+        setRGBLedColor(j, leftR, leftG, leftB)
     end
 
     -- Left set of RGB switches
-    setCFSLedColor("SW1", 191, 255, 0)
-    setCFSLedColor("SW2", 191, 255, 0)
-    setCFSLedColor("SW3", 191, 255, 0)
+    setCFSLedColor("SW1", leftR, leftG, leftB)
+    setCFSLedColor("SW2", leftR, leftG, leftB)
+    setCFSLedColor("SW3", leftR, leftG, leftB)
 
     applyRGBLedColors()
 end
