@@ -3,7 +3,7 @@
 
 **Scripts**
 
-*There are 7 pre made scripts named the following way: LeftColorRightColor.lua, but each color was shorten due to file name size restriction*
+*There are 8 pre made scripts named the following way: LeftColorRightColor.lua, but each color was shorten due to file name size restriction*
 - CyPk.lua     (Cyan Pink)
 <img src="img/CyPk.jpg" alt="Cyan Pink" width="300"/>
 
