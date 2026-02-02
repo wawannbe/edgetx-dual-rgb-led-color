@@ -97,7 +97,6 @@ Package
 
 # Versions
 
-*This version should be used as the code is easier to maintain*
 **v2.3.0**
 - The code has been changed to be easier to work with.
 
